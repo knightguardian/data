@@ -1,7 +1,7 @@
 {
   "availability":1,
   "image":"filename.png",
-  "name":["cardamom","cinnamon","pepper","clove","Malabar tamarind","nutmeg","ginger","turmeric"]
+  "name":["cardamom","cinnamon","pepper","clove","Malabar tamarind","nutmeg","ginger","turmeric"],
   "q_left":2,
   "status":"ok",
   "weight":"12g"
